@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivani
 
-<!--
-**Dnshivani/Dnshivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer | AI enthusiast | UI/UX explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+React · Node.js · MongoDB · Java · Python · DJANGO · HTML · BOOTSTRAP CSS · JS · DJANGO 
+
+---
+
+### 📫 Contact
+[Email](mailto:missdnshivani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dnshivani-miss-ba5852359/)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
