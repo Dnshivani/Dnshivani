@@ -10,6 +10,6 @@ React · Node.js · MongoDB · Java · Python · DJANGO · HTML · BOOTSTRAP CSS
 ---
 
 ### 📫 Contact
-[Email](mailto:missdnshivani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dnshivani-miss-ba5852359/)
+[Email](mailto:missdnshivani@gmail.com) · [LinkedIn]((https://www.linkedin.com/in/naga-sivani-dhanisetty-dns29092006/))
 
 ---
